@@ -1,0 +1,5 @@
+body {
+  background-color: brown; }
+  body > div {
+    background-color: cadetblue;
+    width: 500px; }
